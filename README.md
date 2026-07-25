@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Charvi V
 
-Welcome to my Business Analyst Portfolio.
+Welcome to my AI Business Analyst Portfolio.
 
 I am pursuing an MBA in Business Intelligence & Analytics.
 
