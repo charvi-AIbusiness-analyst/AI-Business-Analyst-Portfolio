@@ -312,11 +312,7 @@ Retail-Sales-Analytics
 
 # 📬 Contact
 
-📧 Email: *Add your professional email here*
-
-💼 LinkedIn: *Add your LinkedIn profile link here*
-
-🐙 GitHub: *Add your GitHub profile link here*
+🐙 GitHub:  **https://github.com/charvi-Albusiness-analyst**
 
 ---
 
